@@ -1,5 +1,4 @@
 let model = [];
-let stages = [];
 
 function displayUnsorted() {
     let input = document.getElementById("textInput");
